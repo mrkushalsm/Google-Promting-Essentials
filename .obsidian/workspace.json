@@ -11,10 +11,14 @@
             "id": "157c81bfac59625d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/module_1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "module_1"
             }
           }
         ]
@@ -156,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,10 +171,11 @@
   },
   "active": "157c81bfac59625d",
   "lastOpenFiles": [
+    "README.md",
+    "notes/module_1.md",
+    "images/Design AI Agents.png",
     "notes/module_4.md",
     "notes/module_3.md",
-    "notes/module_2.md",
-    "notes/module_1.md",
-    "README.md"
+    "notes/module_2.md"
   ]
 }
